@@ -1,0 +1,9 @@
+*.jar
+*.jsa
+*.classlist
+*.csv
+*.tool-versions
+.idea
+.gradle
+**/build/
+.kotlin
